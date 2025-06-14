@@ -6,7 +6,7 @@ author 'Nosmakos'
 description 'TPZ-CORE - Usable Items'
 version '1.0.0'
 
-shared_scripts { 'config.lua', 'locales.lua' }
+shared_scripts { 'config.lua' }
 server_scripts { 'server/*.lua' }
 client_scripts { 'client/*.lua' }
 
