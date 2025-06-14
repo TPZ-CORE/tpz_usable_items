@@ -8,7 +8,7 @@ Config.Debug = true
 
 Config.UsableItems = {
 
-    ['pipepeace'] = {
+    ['pipe'] = {
 
         Type   = 'PIPE',
         Object = 'p_pipe01x',
